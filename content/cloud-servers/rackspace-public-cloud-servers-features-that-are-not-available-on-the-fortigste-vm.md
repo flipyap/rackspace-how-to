@@ -11,7 +11,7 @@ product: Cloud Servers
 product_url: cloud-servers
 ---
 
-Because it's a secure turnkey appliance, the Fortigate&ref;-VM does not support
+Because it's a secure turnkey appliance, Fortigate&reg; Virtual Machine (VM) does not support
 some features that are available on typical Microsoft&reg; Windows&ref; or Linux&reg;
 Rackspace Cloud Servers. This article lists the missing features and the recommended
 workarounds.
